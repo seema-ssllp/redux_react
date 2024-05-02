@@ -5,6 +5,7 @@ import { ShoppingCartOutlined } from '@ant-design/icons';
 const Home = () => {
     return (
         <div>
+            <span>jd</span>
             <div>
                 <Flex justify='space-around' gap={"small"} style={{ background: 'pink' }}>
                     <Col ><h4>Header Home Page</h4></Col>
