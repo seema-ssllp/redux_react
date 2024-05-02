@@ -7,7 +7,7 @@ const Home = () => {
         <div>
             <div>
                 <Flex justify='space-around' gap={"small"} style={{ background: 'pink' }}>
-                    <Col ><h4>Header Home Pages is good</h4></Col>
+                    <Col ><h4>Header Home Page Looking Good</h4></Col>
                     <Col ><h4><ShoppingCartOutlined /></h4></Col>
 
                 </Flex>
