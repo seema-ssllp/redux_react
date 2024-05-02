@@ -15,7 +15,7 @@
 
 .App-header {
   background-color: #282c34;
-  min-height: 100vh;
+  /* min-height: 50vh; */
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -28,11 +28,40 @@
   color: #61dafb;
 }
 
+/* .btn-wrapper {
+  background-color: red;
+  border: 0px;
+  padding: 10px;
+  border-radius: 3px;
+  color: white;
+  box-shadow: black 0px 1px 4px;
+}
+
+.img-wrapper {
+  width: 50px;
+  margin-top: -10px;
+}
+
+.card-wrapper {
+  height: 100px;
+  width: 500px;
+  border: 1px solid white;
+  margin-left: 10%;
+}
+
+.item {
+  float: left;
+  display: inline-block;
+  width: 120px;
+  padding: 20px;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
-}
+} */
